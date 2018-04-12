@@ -1,0 +1,146 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', 'Arial, sans-serif';
+   margin:0%;
+  }
+  html , body{
+    height: 100%;
+    background-color:royalblue;
+  }
+ 
+nav{
+    background-color:royalblue;
+    height:50px;
+    border:solid;
+    border-radius: 5px 5px 5px 5px;
+    border-width:2px;
+    box-shadow:black 0px 4px 25px 1px ;
+}
+
+h1{
+    text-align:left;
+    display:inline-block;
+    margin-top: 7px;
+    font-family:Centaur;
+    font-size:x-large;
+    color:white;
+    margin-left:10px;
+    text-shadow:black 2px 3px 3px;
+}
+#btns{
+    float:right;
+display:inline-flex;
+position:sticky;
+}
+  .grid > div{
+    text-align:center;
+    display:inline-grid;
+    background-color: rgb(95, 95, 204);
+    height: 20px;
+    border-radius: 5px 5px;
+    width: 80px;
+    color: white;
+    margin:13px;
+    border:solid;
+    border-width:1px;
+    box-shadow:black 2px 2px 5px 1px;
+  }
+  .grid > div:hover {
+    background-color: white;
+    color:rgb(95, 95, 204);
+    cursor: pointer;
+    border: solid rgb(23, 4, 75);
+  }
+  .form{
+    margin-top: 250px;
+    
+  }
+  input{
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    border: white;
+    border-bottom: solid rgb(59, 59, 119);
+    color:white;
+    text-shadow:black 0px 1px 3px 1px;
+    text-align:center;
+   background-color:royalblue;
+   border-radius:30px; 
+  }
+  input:hover{
+      box-shadow: 5px 10px hsl(238, 90%, 85%);
+  }
+  button{
+    margin-top: 10px;
+  }
+  footer{
+  left: 48%;
+      position: absolute;
+    color: rgb(103, 103, 182);
+    bottom: 0px;
+  }
+  body{
+    background-image: url("/imagens/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
+
+  h2{
+    text-align: center;
+    color: rgb(103, 103, 182);
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 30px;
+  }
+  #mensagem{
+    text-align: center;
+    background-color: rgb(95, 95, 204);
+    margin-top: 100px;
+    border-radius: 20px 20px 0px 0px;
+    color: white;
+    font-size: 30px;
+    border:ridge;
+    border-color:black;
+    border-width:3px;
+    padding: 0px 0px;
+    text-shadow:black 2px 2px 2px 2px;
+    position:absolute;
+    bottom:0;
+  }
+
+#Aviso{
+      text-align:center;
+      margin-top:4px;
+      background-color:red;
+      border:thick;
+      border-radius:30%;
+      color:white;
+  }
+
+#frase{
+    margin-top:180px;
+    background-color:cornflowerblue;
+   text-shadow:black 2px 2px 2px 2px;
+   border: medium;
+   border-color:black;
+   border-width:1px;
+   box-shadow:black 1px 3px 90px 10px;
+   color:white;
+   font-size:x-large;
+
+}
+
+#logo{
+    display:inline-block;
+    width:4%;
+    border:outset;
+    border-radius:100%;
+    margin-top:10px;
+    background-color:white;
+    box-shadow:black 0px 5px 11px 1px;
+    border-width:1px;
+    border-color:darkgrey;
+    cursor:pointer;
+    margin-right:40px;
+    
+}

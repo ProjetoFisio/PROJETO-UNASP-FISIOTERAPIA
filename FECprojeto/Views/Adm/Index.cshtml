@@ -1,0 +1,105 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Administração</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="~/content/adm/style.css" rel="stylesheet" />
+    <link href="~/content/adm/index.css" rel="stylesheet" />
+    <link href="~/content/adm/adm.css" rel="stylesheet" />
+    <script src="~/scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/scripts/adm/adm.js"></script>
+</head>
+<body>
+    <nav id="menu">
+        <div class="grid">
+            <div id="cadastrarBtn" onClick="cadastrarPage()">Cadastrar
+            <ul>
+                <li>Clinica</li>
+                <li>Fisioterapeuta</li>
+                <li>Paciente</li>
+            </ul>
+            </div>
+            <div id="gerenciarBtn" onClick="gerenciar()">Gerenciar usuários</div>
+            <div id="sairBtn" onClick="sair()">Sair</div>
+        </div>
+        <hr>
+    </nav>
+    <div class="grid opcoes">
+        <div id="btnFisio">FISIOTERAPEUTA</div>
+        <div id="btnPaci">PACIENTE</div>
+        <h3>CADASTRO</h3>
+    </div>
+    <div id="Aviso">
+        <h5>@ViewBag.mensagem</h5>
+    </div>
+
+    <!-- FORMULARIOS-->
+    <form id="formFisioterapeuta" method="post" action="/Adm/SalvarFis">
+        <h3>Fisioterapeuta</h3>
+
+        <input type="text" id="name" name="name" placeholder="Nome completo" required="required" /><br>
+        <input type="email" id="email" name="email" placeholder="email@example.com" required="required" /><br>
+        <input type="password" id="senha1" name="senha1" placeholder="Digite sua senha" required="required" /><br>
+        <input type="password" id="senha2" name="senha2" placeholder="Repita sua senha..." required="required" /><br />
+        <input type="tel" name="telefone" placeholder="Celular" /><br />
+        <input type="text" id="cpf" name="cpf" placeholder="C.P.F" required="required" /><br>
+        <input type="text" id="rg" name="rg" placeholder="RG" required="required" /><br>
+        <input type="date" id="data" name="data" placeholder="Data de nascimento" required="required" /><br>
+        <textarea id="texto" name="dados" placeholder="Insira dados sobre o profissional."></textarea>
+        <br />
+
+        <div class="choice">
+            <label>Tornar administrador?</label><br />
+            <input type="radio" name="adm" value=true />Sim<input type="radio" name="adm" value=false />Não
+            <br />
+
+        </div>
+        <br />
+        <div class="choice">
+            <label>Gênero</label><br />
+            <input type="radio" name="sexo" value="true" />Masculino<input type="radio" value="false" name="sexo" />Feminino<br />
+            <br />
+        </div>
+
+
+
+        <div id="btnOk">
+            <button type="submit">Salvar</button> <button type="reset">Limpar</button>
+            <h5>@ViewBag.mensagem</h5>
+        </div>
+    </form>
+
+    <form action="/Adm/SalvarPac" method="post" id="formPaciente">
+        <h3>Paciente</h3>
+        <input type="text" id="name" name="name" placeholder="Nome completo" required="required" /><br>
+        <input type="email" id="email" name="email" placeholder="email@example.com" required="required" /><br>
+        <input type="password" id="senha1" name="senha1" placeholder="Digite sua senha" required="required" /><br>
+        <input type="password" id="senha2" name="senha2" placeholder="Repita sua senha..." required="required" /><br>
+        <input type="text" id="telefone" name="telefone" placeholder="Telefone" required="required" /><br>
+        <input type="tel" id="celular" name="celular" placeholder="Celular" /><br />
+        <input type="text" id="cpf" name="cpf" placeholder="C.P.F" required="required" /><br>
+        <input type="text" id="endereco" name="endereco" placeholder="Endereço" /><br />
+        <input type="text" id="cep" name="cep" placeholder="C.E.P" /><br />
+        <input type="text" id="rg" name="rg" placeholder="RG" required="required" /><br>
+        <input type="date" id="data" name="data" placeholder="Data de nascimento" required="required" /><br>
+        <textarea id="texto" name="dados" placeholder="Digite dados a respeito do paciente."></textarea>
+        <br />
+        <div class="choice">
+            <label>Gênero</label><br />
+            <input type="radio" name="sexo" value="true" />Masculino<input type="radio" value="false" name="sexo" />Feminino<br />
+            <br />
+        </div>
+        <br />
+        <button type="submit">Salvar</button> <button type="reset">Limpar</button>
+    </form>
+
+</body>
+</html>

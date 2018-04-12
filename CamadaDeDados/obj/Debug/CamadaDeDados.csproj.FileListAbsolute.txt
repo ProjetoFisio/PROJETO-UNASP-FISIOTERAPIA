@@ -1,0 +1,22 @@
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\CamadaDeDados.dll.config
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.dll
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.xml
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.csprojResolveAssemblyReference.cache
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\CamadaDeDados.dll.config
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.xml
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CopyComplete
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.pdb
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeDados\obj\Debug\CamadaDeDados.csprojResolveAssemblyReference.cache

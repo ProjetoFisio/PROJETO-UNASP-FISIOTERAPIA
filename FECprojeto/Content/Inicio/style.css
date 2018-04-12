@@ -1,0 +1,33 @@
+*{
+    margin: 0 auto;
+  }
+  hr{
+    height: 5px;
+    background-color: blue;
+    border-radius: 10px;
+  }
+  button{
+    background-color: rgb(95, 95, 204);
+    margin-left: 2px;
+    height: 30px;
+    border-radius: 10px 20px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    min-width: 10px;
+  }
+  button:hover{
+    background-color: rgb(160, 160, 204);
+    cursor: pointer;
+  }
+  input{
+    color: blue;
+    border-radius: 3px;
+    margin-top: 3px;
+    background-color: white;
+    border-radius:20px;
+    min-width: 10px;
+  }
+
+  

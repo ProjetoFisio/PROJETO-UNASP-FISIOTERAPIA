@@ -1,0 +1,31 @@
+.grid > div{
+    background-color: transparent;
+    color: white;
+    border: solid 1px blue;
+   
+}
+
+#menu{
+    text-align:center;
+}
+
+.grid{
+    display:inline-flex;
+    
+}
+
+.opcoes {
+    background-color: transparent;
+}
+
+button[type="reset"]{
+    background-color: tomato;
+}
+
+button[type="reset"]:hover{
+    background-color: rgb(221, 33, 0);
+}
+
+input{
+    margin-left: 6px;
+}

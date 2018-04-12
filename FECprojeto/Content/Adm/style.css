@@ -1,0 +1,56 @@
+*{
+    margin: 0 auto;
+  }
+  hr{
+      margin-top:1px;
+    height: 2px;
+    background-color: blue;
+    border-radius: 10px;
+  }
+  button{
+ 
+    background-color: rgb(95, 95, 204);
+    margin-left: 2px;
+    height: 30px;
+    border-radius: 10px 20px;
+    width: 200px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+  }
+  button:hover{
+    background-color: rgb(160, 160, 204);
+    cursor: pointer;
+  }
+  input{
+    color: blue;
+    border-radius: 3px;
+    margin-top: 3px;
+    background-color: transparent
+  }
+
+  #navA,#navS{
+      display:inline-flex;
+  }
+
+.choice{
+    
+    display:inline-flex;
+     border:solid;
+     margin:5px;
+     border-width:1px;
+     border-color:white;
+     padding:10px;
+  
+  }
+
+  .choice>input{
+      width:20px;
+      margin-left:50px;
+      background-color:royalblue;
+      
+  }
+
+  #btnOk{
+      margin-top:30px;
+  }

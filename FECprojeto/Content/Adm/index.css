@@ -1,0 +1,109 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
+}
+
+html, body {
+    height: 100%;
+}
+
+.grid{
+    margin-top:4px;
+}
+
+    .grid > div {
+        background-color: rgb(95, 95, 204);
+        margin-left: 5px;
+        height: 30px;
+        border-radius: 5px 5px;
+        width: 150px;
+        text-align: center;
+        color: white;
+        padding-top:10px;
+       
+    }
+
+        .grid > div:hover {
+            background-color: white;
+            cursor: pointer;
+            color:royalblue;
+             box-shadow:darkblue 1px 1px 30px 3px;
+        }
+
+form {
+    text-align:center;
+    
+}
+
+input {
+    height: 50px;
+    width: 500px;
+    font-size: 20px;
+    background-color:white;
+    border: white;
+    border-bottom: solid rgb(59, 59, 119);
+    border-radius:20px;
+}
+
+    input:hover {
+        box-shadow: blue 1px 1px 30px 1px;
+    }
+
+button {
+    margin-top: 0px;
+}
+
+footer {
+    left: 48%;
+    position: absolute;
+    color: rgb(103, 103, 182);
+    bottom: 0px;
+}
+
+body {
+    background-image: url("../Assets/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    background-color: royalblue;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(103, 103, 182);
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 30px;
+}
+
+#mensagem {
+    text-align: center;
+    background-color: rgb(95, 95, 204);
+    margin-top: 100px;
+    border-radius: 30px;
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    padding: 10px 20px;
+}
+#texto{
+    margin-top:3px;
+    height:300px;
+    width:480px;
+    border:ridge;
+    border-radius:2px;
+    border-width:2px;
+}
+
+#texto:hover{
+    box-shadow:blue 1px 1px 30px 1px;
+    border-color:greenyellow;
+}
+
+#Aviso{
+    text-align:center;
+    background-color:darkgreen;
+    margin-top:17%;
+    border:outset;
+    font:900;
+}

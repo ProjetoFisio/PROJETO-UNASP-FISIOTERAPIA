@@ -1,0 +1,19 @@
+﻿
+@{
+    ViewBag.Title = "Config";
+}
+<script src="~/scripts/inicio/config.js"></script>
+<link href="~/content/inicio/config.css" rel="stylesheet" />
+<form>
+    <div id="TS">
+        <h4>Trocar Senha</h4>
+    </div>
+    
+    <input type="email" placeholder="Digite seu email" required="required" /><br>
+    <input type="password" placeholder="Senha atual" required="required" /><br>
+    <input type="password" placeholder="Nova Senha" required="required" /><br>
+    <input type="password" placeholder="Repita nova senha" required="required" /><br>
+   <button id="btnVoltar" onclick="sairInicial()">Voltar</button> <button type="submit">Salvar</button> <button onCLick="sairInicial()">Cancelar</button>
+</form>
+
+

@@ -1,0 +1,27 @@
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeNegocios.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeNegocios.pdb
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.pdb
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeNegocios.dll.config
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeDados.dll
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeDados.pdb
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeNegocios.dll.config
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeNegocios.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeNegocios.pdb
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeDados.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeDados.pdb
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\CamadaDeDados.dll.config
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.xml
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.csprojResolveAssemblyReference.cache
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.csproj.CopyComplete
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.dll
+C:\Users\dan00\source\repos\FECprojeto\CamadaDeNegocios\obj\Debug\CamadaDeNegocios.pdb

@@ -1,0 +1,33 @@
+*{
+    margin: 0px auto;
+}
+
+
+form{
+text-align:center;
+margin:100px;
+}
+button[onCLick="sairInicial()"]{
+    background-color: tomato;
+}
+button[onCLick="sairInicial()"]:hover{
+    background-color: rgb(129, 41, 25);
+}
+
+button{
+    display:inline-block;
+    margin-top:40px;
+    box-shadow:black 0px 2px 20px 2px;
+}
+
+#btnVoltar{
+    background-color:royalblue;
+}
+#TS{
+    width:90px;
+    border-radius:9px;
+    background-color:white;
+    border:inset;
+    border-width:2px;
+    margin-bottom:2px;
+}

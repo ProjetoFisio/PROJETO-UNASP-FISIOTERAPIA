@@ -1,0 +1,126 @@
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\ApplicationInsights.config
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\csc.exe
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\System.Collections.Immutable.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\vbc.exe
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\VBCSCompiler.exe
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\roslyn\VBCSCompiler.exe.config
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\FECprojeto.dll.config
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\FECprojeto.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\FECprojeto.pdb
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Antlr3.Runtime.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.Web.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.WindowsServer.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.ApplicationInsights.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.Web.Infrastructure.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Newtonsoft.Json.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Helpers.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Mvc.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Optimization.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Razor.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.WebPages.Deployment.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.WebPages.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.WebPages.Razor.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\WebGrease.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.Web.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.AI.WindowsServer.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.ApplicationInsights.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Helpers.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Mvc.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Optimization.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.Razor.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.WebPages.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.WebPages.Deployment.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\System.Web.WebPages.Razor.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Antlr3.Runtime.pdb
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\Newtonsoft.Json.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\obj\Debug\FECprojeto.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\obj\Debug\FECprojeto.pdb
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\EntityFramework.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\EntityFramework.SqlServer.dll
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\EntityFramework.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\bin\EntityFramework.SqlServer.xml
+c:\users\dan00\documents\visual studio 2015\Projects\FECprojeto\FECprojeto\obj\Debug\FECprojeto.csprojResolveAssemblyReference.cache
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\FECprojeto\bin\CamadaDeDados.dll
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\FECprojeto\bin\CamadaDeNegocios.dll
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\FECprojeto\bin\CamadaDeDados.pdb
+C:\Users\dan00\Documents\Visual Studio 2015\Projects\FECprojeto\FECprojeto\bin\CamadaDeNegocios.pdb
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\ApplicationInsights.config
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\csc.exe
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\vbc.exe
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\VBCSCompiler.exe
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\FECprojeto.dll.config
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\FECprojeto.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\FECprojeto.pdb
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Antlr3.Runtime.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\CamadaDeDados.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\CamadaDeNegocios.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\EntityFramework.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\EntityFramework.SqlServer.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.Web.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.ApplicationInsights.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Newtonsoft.Json.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Helpers.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Mvc.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Optimization.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Razor.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.WebPages.Deployment.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.WebPages.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.WebPages.Razor.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\WebGrease.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\CamadaDeDados.pdb
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\CamadaDeDados.dll.config
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\CamadaDeNegocios.pdb
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\CamadaDeNegocios.dll.config
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\EntityFramework.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\EntityFramework.SqlServer.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.Web.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.ApplicationInsights.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Helpers.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Mvc.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Optimization.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.Razor.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.WebPages.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.WebPages.Deployment.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\System.Web.WebPages.Razor.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Antlr3.Runtime.pdb
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\bin\Newtonsoft.Json.xml
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\obj\Debug\FECprojeto.csprojResolveAssemblyReference.cache
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\obj\Debug\FECprojeto.csproj.CoreCompileInputs.cache
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\obj\Debug\FECprojeto.csproj.CopyComplete
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\obj\Debug\FECprojeto.dll
+C:\Users\dan00\source\repos\FECprojeto\FECprojeto\obj\Debug\FECprojeto.pdb
