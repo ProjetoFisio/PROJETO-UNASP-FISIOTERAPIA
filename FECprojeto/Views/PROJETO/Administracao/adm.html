@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Administração</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="../Styles/style.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="../Styles/index.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="../Styles/adm.css" />
+    <script src="..\jquery\dist\jquery.min.js"></script>
+    <script src="../Scripts/adm.js"></script>
+</head>
+<body>
+    <nav>
+        <div class="grid">
+         <div id="cadastrarBtn" onClick="cadastrarPage()">Cadastrar</div>
+        <div id="gerenciarBtn" onClick="gerenciar()">Gerenciar usuários</div>
+       <div id="sairBtn" onClick="sair()">Sair</div>
+        </div>
+        <hr>
+    </nav>
+    <div class="grid opcoes">
+        <div id="btnFisio">FISIOTERAPEUTA</div>
+        <div id="btnPaci">PACIENTE</div>
+        <h3>CADASTRO</h3>
+    </div>
+    
+    <!-- FORMULARIOS-->
+    <form action="" id="formFisioterapeuta">
+        <h3>Fisioterapeuta</h3><br><br>
+        <input type="text" id="name" placeholder="Nome completo" required="required" /><br>
+        <input type="text" id="cpf" placeholder="C.P.F" required="required" /><br>
+        <input type="email" id="email" placeholder="email@example.com" required="required"/><br>
+        <input type="text" id="cidade" placeholder="Cidade" required="required" /><br>
+        <input type="text" id="rg" placeholder="RG" required="required"/><br>
+        <input type="text" id="telefone" placeholder="Telefone" required="required"/><br>
+        <input type="password" id="senha1" placeholder="Digite sua senha" required="required"/><br>
+        <input type="password" id="senha2" placeholder="Repita sua senha..." required="required"/><br>
+        <input type="date" id="data" placeholder="Data de nascimento" required="required"/><br>
+        <button type="submit">Salvar</button> <button type="reset">Limpar</button>
+    </form>
+    <form action="" id="formPaciente">
+            <h3>Paciente</h3><br><br>
+            <input type="text" id="name" placeholder="Nome completo" required="required" /><br>
+            <input type="text" id="cpf" placeholder="C.P.F" required="required"/><br>
+            <input type="email" id="email" placeholder="email@example.com" required="required"/><br>
+            <input type="text" id="cidade" placeholder="Cidade" required="required" /><br>
+            <input type="text" id="rg" placeholder="RG" required="required"/><br>
+            <input type="text" id="telefone" placeholder="Telefone" required="required"/><br>
+            <input type="password" id="senha1" placeholder="Digite sua senha" required="required"/><br>
+            <input type="password" id="senha2" placeholder="Repita sua senha..." required="required"/><br>
+            <input type="date" id="data" placeholder="Data de nascimento" required="required"/><br>
+         <textarea type="textarea" id="diagnostico" placeholder="Diagnóstico" required="required"></textarea> <label for="textarea">Relate todo o Diagnóstico do paciente.</label> <br>
+            <button type="submit">Salvar</button> <button type="reset">Limpar</button>
+        </form>
+    
+    <footer>DJACK &#169;</footer>
+</body>
+</html>

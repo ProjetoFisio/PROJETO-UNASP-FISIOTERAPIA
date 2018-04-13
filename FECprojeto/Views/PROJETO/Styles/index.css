@@ -1,0 +1,86 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    left: 0%;
+    top: 0 auto;
+    bottom: 0px;
+  }
+  html , body{
+    height: 100%;
+  }
+  /* ELEMENTOS EM GRID */
+  .grid{
+    display:flex;
+    /*grid-template-columns: 200px 1fr 200px 220px;*/
+    background-color: white;
+    justify-content: left;
+  }
+  .grid > div{
+    flex: 1 auto;
+    flex-wrap: wrap;
+    background-color: rgb(95, 95, 204);
+    margin-left: 2px;
+    height: 30px;
+    border-radius: 10px 20px;
+    max-width: 300px;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+  }
+  .grid > div:hover {
+    background-color: rgb(49, 49, 124);
+   /* margin-top: 3px;*/
+    cursor: pointer;
+    border: solid 0.01em rgb(10, 3, 31);
+    
+  }
+  .form{
+    margin-top: 250px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  input{
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    min-width: 300px;
+    max-width: 500px;
+    font-size: 20px;
+    border: white;
+    border-bottom: solid rgb(59, 59, 119);
+  }
+  input:hover{
+      box-shadow: 5px 10px hsl(238, 90%, 85%);
+  }
+  button{
+    margin-top: 10px;
+  }
+  footer{
+    bottom: 0%;
+  left: 48%;
+      position: absolute;
+    color: rgb(103, 103, 182);
+    bottom: 0px;
+  }
+  body{
+    background-image: url("../Assets/logo.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+  }
+  h2{
+    text-align: center;
+    color: rgb(103, 103, 182);
+    font-style: italic;
+    font-size: 30px;
+    margin-top: 30px;
+  }
+  #mensagem{
+    text-align: center;
+    background-color: rgb(95, 95, 204);
+    margin-top: 100px;
+    border-radius: 30px;
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    padding: 10px 20px;
+  }

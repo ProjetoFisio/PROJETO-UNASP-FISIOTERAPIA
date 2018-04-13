@@ -1,0 +1,16 @@
+*{
+    margin: 0px auto;
+}
+h3{
+    text-align: center;
+}
+form{
+    margin-left: 30%;
+    margin-top: 10%;
+}
+button[onCLick="sairInicial()"]{
+    background-color: tomato;
+}
+button[onCLick="sairInicial()"]:hover{
+    background-color: rgb(129, 41, 25);
+}

@@ -1,0 +1,28 @@
+#imagemPerfil{
+    border-radius: 50%;
+    height: 10em;
+}
+#profileSection{
+   display: flex;
+   border: solid 3px;
+   justify-content: left;
+   margin: 10px;
+   min-width: 100px;
+}
+#profileSection > div {
+    flex: 1 auto;
+    flex-wrap: wrap;
+    margin-left: 5px;
+    border: solid 1px;
+    margin: 3px;
+    margin-left: 5px;
+}
+strong{
+    margin-left: 3px;
+}
+.grid{
+    background-color: transparent;
+}
+label {
+    font-size: 1.3em;
+}
