@@ -9,7 +9,9 @@
     <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/style.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/index.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/profile.css" />
-    <script src="main.js"></script>
+    <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/profissional.css" />
+    <script src="../../../jquery/dist/jquery.min.js"></script>
+    <script src="../../../Scripts/profissional.js"></script>
 </head>
 <body>
     <div>
@@ -40,5 +42,13 @@
     </div>
     <h3>SOBRE</h3>
     <!--TRAZER OS DADOS DO USUÁRIO, ESTA PÁGINA É DA SEÇÃO SOBRE-->
+     <!--MODAL PARA MENSAGEM-->
+ <div id="modal">
+     
+        <div id="conteudoModal">
+            <textarea id="campoMensaem" placeholder="Escreva sua mensagem..." required="required" /></textarea>
+            <button type="submit">Enviar</button> <button type="button" style="background-color: tomato" id="fechar">Cancelar</button>
+        </div>
+    </div>
 </body>
 </html>

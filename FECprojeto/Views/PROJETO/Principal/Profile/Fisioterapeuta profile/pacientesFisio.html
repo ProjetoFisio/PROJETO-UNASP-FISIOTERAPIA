@@ -10,10 +10,12 @@
     <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/index.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/profile.css" />
     <link rel="stylesheet" type="text/css" media="screen" href="../../../Styles/profissional.css" />
-    <script src="main.js"></script>
+    <script src="../../../jquery/dist/jquery.min.js"></script>
+   <script src="../../../Scripts/profissional.js"></script>
 </head>
 <body>
-    <!--MODAL PARA MENSAGEM-->
+   
+   
     <div>
         <!--DAR FUNCIONALIDADE AOS BOTÕES-->
         <nav class="grid">
@@ -42,5 +44,13 @@
     </div>
     <h3>SEUS PACIENTES</h3>
     <!--TRAZER OS PACIENTES VINCULADOS À ELE, ESTA PÁGINA É DA SEÇÃO PACIENTES-->
+ <!--MODAL PARA MENSAGEM-->
+ <div id="modal">
+     
+    <div id="conteudoModal">
+        <textarea id="campoMensaem" placeholder="Escreva sua mensagem..." required="required" /></textarea>
+        <button type="submit">Enviar</button> <button type="button" style="background-color: tomato" id="fechar">Cancelar</button>
+    </div>
+</div>
 </body>
 </html>
