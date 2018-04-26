@@ -1,0 +1,26 @@
+*{
+    color: black;
+}
+#articleCampo{
+    display: grid;
+    grid-row: 100px 100px 1fr;
+    background-color: rgb(243, 242, 225);
+    width: 70%;
+    height: 90%;
+    overflow: scroll;
+}
+h3{
+    color: rgb(15, 15, 117);
+    margin-bottom: 5px;
+}
+section{
+    margin: 10px;
+}
+h6{
+    float: left;
+}
+article{
+    width: 100%;
+    margin-right: 300px;
+    margin-top: 2px;
+}
