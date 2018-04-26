@@ -27,7 +27,10 @@
             PEGAR OS DADOS DELE E MOSTRÁ-LOS EM CADA LABEL CONTIDA NA DIV profileDados
          -->
         <div id="profileSection">
-            <img src="../../../Assets/fisioterapeuta.jpg" alt="profile" id="imagemPerfil"/>
+            <figure>
+                 <img src="../../../Assets/fisioterapeuta.jpg" alt="profile" id="imagemPerfil"/>
+            </figure>
+           
             <div id="profileDados">
                 <label name="dado"><strong>NOME:</strong> NOME DO USUÁRIO</label><br>
                 <label name="dado"><strong>IDADE:</strong> IDADE</label><br>
@@ -39,6 +42,7 @@
         <nav class="grid">
             <div id="sobreBtn">Sobre</div>
             <div id="Status">Pacientes</div>
+            <div id="escreverArtigo" style="background-color: rgb(28, 131, 150)">Escrever artigo</div>
             <div id="EnviarMensagem">Enviar Mensagem</div>
         </nav>
     </div>
@@ -48,6 +52,7 @@
  <div id="modal">
      
     <div id="conteudoModal">
+        <input type="text" id="paraPaciente" placeholder="Nome do Paciente" />
         <textarea id="campoMensaem" placeholder="Escreva sua mensagem..." required="required" /></textarea>
         <button type="submit">Enviar</button> <button type="button" style="background-color: tomato" id="fechar">Cancelar</button>
     </div>

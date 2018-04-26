@@ -1,0 +1,11 @@
+#estruturaArtigo{
+    display: grid;
+    background-color: rgb(41, 41, 119);
+    height: 90%;
+    width: 90%;
+    border-radius: 30px;
+}
+#estruturaArtigo > input{
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
