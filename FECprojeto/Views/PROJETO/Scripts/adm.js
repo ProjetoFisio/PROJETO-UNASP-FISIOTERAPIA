@@ -28,3 +28,6 @@ $(document).ready(() => {
     function gerenciar(){
         location.href = "../Administracao/adm_gerencia.html";
     }
+    function reportarPage(){
+        location.href = "../Administracao/adm_report.html";
+    }
