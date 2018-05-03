@@ -6,3 +6,18 @@ input{
     margin-left: 30%;
     margin-bottom: 10px;
 }
+#bloquearBtn{
+background-color: tomato;
+padding: 3px;
+}
+#bloquearBtn:hover{
+    background-color: rgb(214, 57, 29);
+}
+#cancelarBtn{
+    background-color: rgb(74, 76, 216);
+padding: 3px;
+border-radius: 5px;
+}
+#cancelarBtn:hover{
+    background-color: rgb(16, 5, 46);
+}
